@@ -1,0 +1,104 @@
+body{
+    background-attachment: fixed;
+    background-image: url("../imgs/bckground-pastel.png");
+}
+.navbar{
+  border-radius: 10px;
+
+}
+
+#iconBrand{
+    border-radius: 10px;
+    margin: 5px 5px 5px 15px;
+    width: 55px;
+    height: 55px;
+}
+
+#hi{
+    background: antiquewhite;
+    color: chocolate;
+    margin:  50px 400px 50px 400px;
+    border-radius: 10px;
+    padding: 20px;
+}
+#hi2{
+    font-size: 50px;
+    border-style: solid;
+    color: #ffff;
+    margin:  10px 320px 50px 320px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align:center;
+}
+
+#carruselMain{
+    display: block;
+    width: 1250px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+}
+
+.carousel-item img{
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+
+#listsFlave{
+    margin-top: 100px;
+    color: chocolate;
+    border-radius: 10px;
+}
+#flavetxt{
+    margin-left: 550px;
+    margin-bottom: 50px;
+}
+
+#listsOrna{
+    margin-top: 50px;
+    color: chocolate;
+    border-radius: 10px;
+}
+#ornatxt{
+    margin-left: 550px;
+    margin-bottom: 50px;
+}
+
+#costume{
+    margin: 50px ;
+    color: chocolate;
+    border-radius: 10px;
+}
+#costumetxt{
+    margin-left: 650px;
+    margin-bottom: 50px;
+}
+#order{
+    margin: 50px ;
+    color: chocolate;
+    border-radius: 10px;
+}
+#ordertxt{
+    margin-left: 650px;
+    margin-bottom: 50px;
+}
+.p-3{
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+}
+footer{
+    background-color: chocolate;
+    color: antiquewhite;
+}
+
